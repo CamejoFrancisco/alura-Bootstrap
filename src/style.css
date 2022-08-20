@@ -1,0 +1,37 @@
+.card-largura {
+    max-width: 18rem;
+}
+
+.imagem-carrossel {
+    object-fit: cover; /*como a gente quer que a img se comporte em relação ao container.*/
+    object-position: 0 80%;/*movimentar a img no sei eixo xy*/
+    height: 400px;
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+   
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.texto-cor-especial {
+    color: darkred;
+}
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover; /*como a gente quer que a img se comporte em relação ao container.*/
+    /*object-position: 0 80%;movimentar a img no sei eixo xy*/
+    height: 200px;
+}
